@@ -1,0 +1,3 @@
+stepdefs\Hooks.class
+stepdefs\CoinMap_StepDef.class
+runner\TestRunner.class
