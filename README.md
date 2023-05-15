@@ -1,0 +1,2 @@
+# SY_CoinMapUIAutomationProject-
+SY_CoinMapUIAutomationProject 
