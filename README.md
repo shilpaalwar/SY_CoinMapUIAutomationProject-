@@ -15,6 +15,7 @@ Tools Used for Automation API
 prerequisites -
 1. Java 1.8 (min) should be installed on machine
 2. Environment Variable JAVA_HOME and MAVEN_HOME should be setup
+3. Download chromedriver.exe. exe must be compatible with the chrome version installed in your machine.
 
 Installing
 How/where to download your program
@@ -24,9 +25,10 @@ How/where to download your program
 
 How to run the program
 1. in IDE , execute using TESTNG with below step
-2. Open the file src/test/java testRunner.java. Riht click on File->Run As->TestNG Test
+2. Open the file src/test/java testRunner.java. Right click on File->Run As->TestNG Test
 
 command to run
+mvn clean verify
 
 Authors - Shilpa Yadav
 
